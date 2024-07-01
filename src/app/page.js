@@ -13,7 +13,7 @@ export default function Home() {
             CONTENT1
           </div>
           <div className="col-md-6 text-center bg-success p-5">
-            
+            CONTENT2
           </div>
         </div>
         <div className="row">
